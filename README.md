@@ -4,7 +4,7 @@ Calculating FIFA World Cup 2018 draw probabilities using Monte Carlo simulations
 Estimating draw probabilities using Monte Carlo simulations
 -----------------------------------------------------------
 
-FIFA World Cup draws are restricted by both inter-region limitations and pot limitations, which generally leads to tedious calculations of conditional probabilities for most combinations of match-ups (two countries/teams ending up in the same group). Since the expansion to 32 teams in 1998, the restrictions can generally be summarized as
+FIFA World Cup draws are restricted by both intra-region limitations and pot limitations, which generally leads to tedious calculations of conditional probabilities for most combinations of match-ups (two countries/teams ending up in the same group). Since the expansion to 32 teams in 1998, the restrictions can generally be summarized as
 
 1.  There may be two UEFA teams in one group.
 2.  Countries from the other regions may not be matched with a country from its own region, i.e. one per group.
